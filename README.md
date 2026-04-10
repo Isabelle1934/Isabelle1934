@@ -1,34 +1,28 @@
-👋 Hi, I'm Isabelle
+👋 Olá, eu sou Isabelle Silva
 
-🎓 Software Engineering student focused on AI & Data Engineering
-🤖 Interested in Machine Learning, LLMs, Generative AI, and Automation
+🎓 Estudante de Engenharia de Software | Foco em Inteligência Artificial e Engenharia de Dados
 
-🚀 About Me:
-I build practical, real-world AI solutions combining software engineering, data, and artificial intelligence.  
-My focus is on developing scalable systems, intelligent automation, and AI-driven applications.
+🤖 Interessada em Machine Learning, LLMs, IA Generativa e Automação
 
-Currently seeking AI and Data Engineering internship opportunities.
+💡 Desenvolvo soluções práticas de IA voltadas para problemas reais, combinando engenharia de software, dados e inteligência artificial. Tenho interesse em construir sistemas escaláveis, automação inteligente e aplicações orientadas por IA, com foco em performance e impacto.
 
-🧠 Tech Stack:
-Python, SQL, Machine Learning, LLMs, Generative AI, Automation, n8n, workflow automation, Prompt Engineering,
-API integrations (LLMs), Data processing, pipelines, analysis, Git, GitHub and APIs.
+🧠 Stack Tecnológica:
+Python | SQL | Machine Learning | LLMs | IA Generativa | Automação | n8n | Prompt Engineering | Integração de APIs | Processamento de Dados | Pipelines | Git | GitHub
 
-📌 Featured Projects:
-🔹 AI Game Assistant (Gemini API)  
-AI-powered web app that answers questions about games using LLM integration.
+📌 Projetos em destaque:
+🔹 Assistente de IA para jogos (integração com API Gemini)
+🔹 Sistema de simulação Artemis II (modelagem de dados e lógica aplicada)
 
-🔹 Generative AI Projects
-Experiments with LLMs, prompt engineering, and intelligent automation workflows.
+📈 Atualmente aprendendo:
 
-(More projects coming soon)
+Engenharia de Dados e MLOps
+Integração com APIs e LLMs
+Automação de processos e workflows
+Python aplicado à IA e dados
 
-📈 Currently Learning:
-- Python for AI & Data  
-- Automation and workflows (n8n)  
-- API and LLM integration  
-- Data Engineering and MLOps  
+🎯 Objetivo:
+Buscando oportunidades de estágio em Inteligência Artificial ou Engenharia de Dados para aplicar conhecimentos técnicos em projetos reais e gerar impacto através da tecnologia.
 
-🌐 Connect With Me
-LinkedIn: www.linkedin.com/in/isabelle-silva-64018b33b
+🌐 LinkedIn: www.linkedin.com/in/isabelle-silva-64018b33b
 
-⭐ Always building, learning, and improving.
+⭐ Construindo, aprendendo e evoluindo todos os dias.
