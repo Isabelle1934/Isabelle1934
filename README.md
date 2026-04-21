@@ -10,8 +10,9 @@
 Python | SQL | Machine Learning | LLMs | IA Generativa | Automação | n8n | Prompt Engineering | Integração de APIs | Processamento de Dados | Pipelines | Git | GitHub
 
 📌 Projetos em destaque:
+🔹 Gerador de Qr Code com python
 🔹 Assistente de IA para jogos (integração com API Gemini)
-🔹 Sistema de simulação Artemis II (modelagem de dados e lógica aplicada)
+🔹 Previsão de clima (integração com OpenWeather + operação lógica)
 
 📈 Atualmente aprendendo:
 
