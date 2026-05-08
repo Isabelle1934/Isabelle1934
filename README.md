@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia de Software, Com foco em Inteligência Artificial e Engenharia de Dados
 
-🤖 Interessada em Machine Learning, LLMs, IA Generativa e Automação
+🤖 Interessada em Python, LLMs, IA Generativa, Automação e dados
 
 💡 Desenvolvo soluções práticas de IA voltadas para problemas reais, combinando engenharia de software, dados e inteligência artificial. Tenho interesse em construir sistemas escaláveis, automação inteligente e aplicações orientadas por IA, com foco em performance e impacto.
 
