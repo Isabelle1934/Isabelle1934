@@ -1,6 +1,6 @@
 👋 Olá, eu sou Isabelle Silva
 
-🎓 Estudante de Engenharia de Software | Foco em Inteligência Artificial e Engenharia de Dados
+🎓 Estudante de Engenharia de Software, Com foco em Inteligência Artificial e Engenharia de Dados
 
 🤖 Interessada em Machine Learning, LLMs, IA Generativa e Automação
 
