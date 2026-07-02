@@ -16,7 +16,6 @@ Python | SQL | Machine Learning | LLMs | Generative AI | Automation | n8n | Prom
 
 📈 Currently Learning:
 
-* Data Engineering and MLOps
 * API and LLM Integration
 * Process Automation and Workflows
 * Python applied to AI and Data
