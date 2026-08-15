@@ -1,29 +1,81 @@
 # 👋 Hi, I'm Isabelle Silva
 
-🎓 Software Engineering student focused on Artificial Intelligence and Data Engineering.
+🎓 **Software Engineering student** building my career in **Backend Development, Data, and Artificial Intelligence**.
 
-🤖 Interested in Python, LLMs, Generative AI, Automation, and Data.
+💻 I enjoy building software solutions that turn real-world problems into practical applications. My main interests are **Backend Development, APIs, Data Engineering, and AI-powered applications**.
 
-💡 I develop practical AI solutions for real-world problems, combining software engineering, data, and artificial intelligence. I’m interested in building scalable systems, intelligent automation, and AI-driven applications with a focus on performance and impact.
+🐍 I primarily work with **Python and SQL**, and I’m continuously expanding my knowledge in **backend architecture, databases, cloud technologies, automation, and machine learning**.
 
-🧠 Tech Stack:
-Python | SQL | Machine Learning | LLMs | Generative AI | Automation | n8n | Prompt Engineering | API Integration | Data Processing | Pipelines | Git | GitHub
+## 🧠 Tech Stack
 
-📌 Featured Projects:
-🔹 QR Code Generator with Python
-🔹 AI Assistant for Games (Gemini API integration)
-🔹 Weather Forecast System (OpenWeather integration + logical operations)
+**Languages & Data**
 
-📈 Currently Learning:
+* Python
+* SQL
+* Data Processing
+* Data Pipelines
 
-* API and LLM Integration
-* Process Automation and Workflows
-* Python applied to AI and Data
+**Backend & APIs**
 
-🎯 Goal:
-Seeking internship opportunities in Artificial Intelligence or Data Engineering to apply technical knowledge in real-world projects and create impact through technology.
+* REST APIs
+* API Integration
+* Backend Development
+* PostgreSQL
 
-🌐 LinkedIn:
-[www.linkedin.com/in/isabelle-silva-64018b33b](http://www.linkedin.com/in/isabelle-silva-64018b33b)
+**Artificial Intelligence**
 
-⭐ Building, learning, and evolving every day.
+* Machine Learning
+* LLMs
+* Generative AI
+* Prompt Engineering
+
+**Automation & Tools**
+
+* n8n
+* Git
+* GitHub
+* Docker
+
+## 🚀 What I Build
+
+I’m particularly interested in projects involving:
+
+* 🔹 Backend systems and REST APIs
+* 🔹 Data processing and pipelines
+* 🔹 AI-powered applications
+* 🔹 Intelligent automation
+* 🔹 LLM integrations
+* 🔹 Solutions that connect software, data, and AI
+
+## 📌 Featured Projects
+
+🔹 **QR Code Generator** — Python-based application for generating QR codes.
+
+🔹 **AI Assistant for Games** — AI assistant integrating the Gemini API.
+
+🔹 **Weather Forecast System** — Weather application using the OpenWeather API and Python.
+
+🔹 **Automation Projects** — Workflow automation and API integrations using n8n.
+
+## 📈 Currently Learning
+
+* Backend Development with Python
+* REST APIs & FastAPI
+* Databases & Data Modeling
+* Docker & Cloud Technologies
+* Data Engineering
+* Machine Learning & LLM Applications
+
+## 🎯 Career Goal
+
+I’m looking for **internship and junior opportunities in Backend Development, Software Engineering, Data Engineering, or AI**, where I can contribute to real-world projects, learn from experienced professionals, and continue developing strong engineering skills.
+
+I’m especially interested in opportunities that allow me to work with **international teams and build technology for a global audience**.
+
+## 🌐 Connect With Me
+
+🔗 **LinkedIn:** [linkedin.com/in/isabelle-silva-64018b33b](http://www.linkedin.com/in/isabelle-silva-64018b33b)
+
+---
+
+⭐ **Building, learning, and evolving every day.**
