@@ -4,7 +4,7 @@
 
 💻 I enjoy building software solutions that turn real-world problems into practical applications. My main interests are **Backend Development, APIs, Data Engineering, and AI-powered applications**.
 
-🐍 I primarily work with **Python and SQL**, and I’m continuously expanding my knowledge in **backend architecture, databases, cloud technologies, automation, and machine learning**.
+🐍 I primarily work with **Python and SQL**, and I’m continuously expanding my knowledge in **backend architecture, databases, cloud technologies and automation**.
 
 ## 🧠 Tech Stack
 
