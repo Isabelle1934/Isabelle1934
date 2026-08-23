@@ -1,5 +1,3 @@
-![GitHub Stats](https://ghstats.dev/api/card?username=isabelle1934)
-
 # 👋 Hi, I'm Isabelle Silva
 
 🎓 **Software Engineering student** building my career in **Backend Development, Data, and Artificial Intelligence**.
@@ -81,3 +79,5 @@ I’m especially interested in opportunities that allow me to work with **intern
 ---
 
 ⭐ **Building, learning, and evolving every day.**
+
+![GitHub Stats](https://ghstats.dev/api/card?username=isabelle1934)
