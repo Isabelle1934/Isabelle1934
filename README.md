@@ -1,4 +1,4 @@
-https://ghstats.dev/api/card?username=Isabelle1934&theme=tokyonight
+![GitHub Stats](https://ghstats.dev/api/card?username=isabelle1934)
 
 # 👋 Hi, I'm Isabelle Silva
 
