@@ -1,76 +1,113 @@
 # 👋 Hi, I'm Isabelle Silva
 
-🎓 **Software Engineering student** building my career in **Backend Development, Data, and Artificial Intelligence**.
+🎓 **Software Engineering student** focused on **Backend Development, Software Engineering, Data, and Artificial Intelligence**.
 
-💻 I enjoy building software solutions that turn real-world problems into practical applications. My main interests are **Backend Development, APIs, Data Engineering, and AI-powered applications**.
+💻 I build backend applications, APIs, and software solutions designed to solve real-world problems.
 
-🐍 I primarily work with **Python and SQL**, and I’m continuously expanding my knowledge in **backend architecture, databases, cloud technologies and automation**.
+My main stack includes **Java, Spring Boot, Python, PostgreSQL, FastAPI, Flask, Docker, and AWS**.
+
+I’m particularly interested in building **scalable backend systems, REST APIs, data-driven applications, and AI-powered solutions**.
+
+---
 
 ## 🧠 Tech Stack
 
-**Languages & Data**
+### Backend
 
-* Python
-* SQL
-* Data Processing
-* Data Pipelines
+* ☕ Java
+* 🌱 Spring Boot
+* 🐍 Python
+* ⚡ FastAPI
+* 🧪 Flask
+* 🔗 REST APIs
 
-**Backend & APIs**
+### Databases & Data
 
-* REST APIs
-* API Integration
-* Backend Development
-* PostgreSQL
+* 🐘 PostgreSQL
+* 🗄️ SQL
+* 📊 Data Processing
+* 🔄 Data Pipelines
+* 🧩 Data Modeling
 
-**Artificial Intelligence**
+### Cloud & DevOps
 
-* Machine Learning
-* LLMs
-* Generative AI
-* Prompt Engineering
+* ☁️ AWS
+* 🐳 Docker
+* 🔧 Git
+* 🐙 GitHub
 
-**Automation & Tools**
+### Artificial Intelligence
 
-* n8n
-* Git
-* GitHub
-* Docker
+* 🤖 Machine Learning
+* 🧠 LLMs
+* ✨ Generative AI
+* 🔌 AI API Integrations
+* 📝 Prompt Engineering
+
+### Automation
+
+* ⚙️ n8n
+* 🔗 API Integrations
+* 🔄 Workflow Automation
+
+---
 
 ## 🚀 What I Build
 
-I’m particularly interested in projects involving:
+I’m interested in developing:
 
-* 🔹 Backend systems and REST APIs
+* 🔹 Backend applications with **Java & Spring Boot**
+* 🔹 RESTful APIs and integrations
+* 🔹 Database-driven systems
 * 🔹 Data processing and pipelines
-* 🔹 AI-powered applications
+* 🔹 Cloud-based applications
+* 🔹 AI-powered software
 * 🔹 Intelligent automation
-* 🔹 LLM integrations
-* 🔹 Solutions that connect software, data, and AI
+* 🔹 Solutions that connect **software, data, and AI**
+
+---
 
 ## 📌 Featured Projects
 
-🔹 **QR Code Generator** — Python-based application for generating QR codes.
+🔹 **QR Code Generator**
+Python-based application for generating QR codes.
 
-🔹 **AI Assistant for Games** — AI assistant integrating the Gemini API.
+🔹 **AI Assistant for Games**
+AI-powered assistant integrating the Gemini API.
 
-🔹 **Weather Forecast System** — Weather application using the OpenWeather API and Python.
+🔹 **Weather Forecast System**
+Application integrating the OpenWeather API to provide weather information.
 
-🔹 **Automation Projects** — Workflow automation and API integrations using n8n.
+🔹 **VisionCounter AI**
+Computer vision application using Python and YOLO for real-time object and people detection.
 
-## 📈 Currently Learning
+🔹 **Automation Projects**
+Workflow automation, API integrations, and business process automation using n8n.
 
-* Backend Development with Python
-* REST APIs & FastAPI
-* Databases & Data Modeling
-* Docker & Cloud Technologies
-* Data Engineering
-* Machine Learning & LLM Applications
+---
 
-## 🎯 Career Goal
+## 📚 Currently Learning
 
-I’m looking for **internship and junior opportunities in Backend Development, Software Engineering, Data Engineering, or AI**, where I can contribute to real-world projects, learn from experienced professionals, and continue developing strong engineering skills.
+* ☕ Advanced **Java & Spring Boot**
+* 🏗️ Backend Architecture
+* 🔗 REST API Design
+* 🗄️ PostgreSQL & Data Modeling
+* 🐳 Docker
+* ☁️ AWS & Cloud Technologies
+* 📊 Data Engineering
+* 🤖 Machine Learning & LLM Applications
 
-I’m especially interested in opportunities that allow me to work with **international teams and build technology for a global audience**.
+---
+
+## 🎯 Career Focus
+
+I’m building my career as a **Backend Developer**, with a strong interest in **Java/Spring Boot, Python, databases, cloud technologies, data, and artificial intelligence**.
+
+My goal is to continuously improve my software engineering skills by building real-world projects, understanding good architecture and writing maintainable, scalable code.
+
+I’m also interested in opportunities involving **international teams and global technology projects**.
+
+---
 
 ## 🌐 Connect With Me
 
@@ -78,6 +115,6 @@ I’m especially interested in opportunities that allow me to work with **intern
 
 ---
 
-⭐ **Building, learning, and evolving every day.**
+⭐ **Building software. Learning constantly. Evolving every day.**
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=isabelle1934)
