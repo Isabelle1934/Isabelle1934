@@ -1,120 +1,46 @@
-# 👋 Hi, I'm Isabelle Silva
 
-🎓 **Software Engineering student** focused on **Backend Development, Software Engineering, Data, and Artificial Intelligence**.
+# Hi, I'm Isabelle Silva 👋
 
-💻 I build backend applications, APIs, and software solutions designed to solve real-world problems.
+### Software Engineering Student | Aspiring Java Backend Developer
 
-My main stack includes **Java, Spring Boot, Python, PostgreSQL, FastAPI, Flask, Docker, and AWS**.
+I'm a Software Engineering student focused on backend development
+and building reliable, maintainable software.
 
-I’m particularly interested in building **scalable backend systems, REST APIs, data-driven applications, and AI-powered solutions**.
+I'm currently strengthening my skills in Java, object-oriented
+programming, Spring Boot, SQL, and REST API development through
+hands-on projects and continuous learning.
 
----
+## 🎯 Current Focus
+- Java and Object-Oriented Programming
+- Spring Boot and REST APIs
+- SQL and PostgreSQL
+- Software Design and Clean Code
+- Testing and Backend Development Best Practices
 
-## 🧠 Tech Stack
+## 🛠️ Technologies
+- **Languages:** Java, Python
+- **Backend:** Spring Boot (learning/in progress)
+- **Databases:** SQL, PostgreSQL
+- **Tools:** Git, GitHub, IntelliJ IDEA
 
-### Backend
+## 🚀 Featured Projects
 
-* ☕ Java
-* 🌱 Spring Boot
-* 🐍 Python
-* ⚡ FastAPI
-* 🧪 Flask
-* 🔗 REST APIs
+### DriveControl
+A driving school management system focused on student
+management, scheduling, and learning progress.
 
-### Databases & Data
+- **Technologies:** Java, Spring Boot, PostgreSQL
+- **Repository:** [https://isabelle1934.github.io/my-portfolio-web/]
+- **Status:** In development
 
-* 🐘 PostgreSQL
-* 🗄️ SQL
-* 📊 Data Processing
-* 🔄 Data Pipelines
-* 🧩 Data Modeling
+## 🎓 Education
+**B.Sc. in Software Engineering**
+Uninter — Expected graduation: 2029
 
-### Cloud & DevOps
-
-* ☁️ AWS
-* 🐳 Docker
-* 🔧 Git
-* 🐙 GitHub
-
-### Artificial Intelligence
-
-* 🤖 Machine Learning
-* 🧠 LLMs
-* ✨ Generative AI
-* 🔌 AI API Integrations
-* 📝 Prompt Engineering
-
-### Automation
-
-* ⚙️ n8n
-* 🔗 API Integrations
-* 🔄 Workflow Automation
+## 📫 Contact
+- **LinkedIn:** [https://www.linkedin.com/in/isabelle-silva-64018b33b?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- **Email:** [isabellefls1910@gmail.com]
 
 ---
 
-## 🚀 What I Build
-
-I’m interested in developing:
-
-* 🔹 Backend applications with **Java & Spring Boot**
-* 🔹 RESTful APIs and integrations
-* 🔹 Database-driven systems
-* 🔹 Data processing and pipelines
-* 🔹 Cloud-based applications
-* 🔹 AI-powered software
-* 🔹 Intelligent automation
-* 🔹 Solutions that connect **software, data, and AI**
-
----
-
-## 📌 Featured Projects
-
-🔹 **QR Code Generator**
-Python-based application for generating QR codes.
-
-🔹 **AI Assistant for Games**
-AI-powered assistant integrating the Gemini API.
-
-🔹 **Weather Forecast System**
-Application integrating the OpenWeather API to provide weather information.
-
-🔹 **VisionCounter AI**
-Computer vision application using Python and YOLO for real-time object and people detection.
-
-🔹 **Automation Projects**
-Workflow automation, API integrations, and business process automation using n8n.
-
----
-
-## 📚 Currently Learning
-
-* ☕ Advanced **Java & Spring Boot**
-* 🏗️ Backend Architecture
-* 🔗 REST API Design
-* 🗄️ PostgreSQL & Data Modeling
-* 🐳 Docker
-* ☁️ AWS & Cloud Technologies
-* 📊 Data Engineering
-* 🤖 Machine Learning & LLM Applications
-
----
-
-## 🎯 Career Focus
-
-I’m building my career as a **Backend Developer**, with a strong interest in **Java/Spring Boot, Python, databases, cloud technologies, data, and artificial intelligence**.
-
-My goal is to continuously improve my software engineering skills by building real-world projects, understanding good architecture and writing maintainable, scalable code.
-
-I’m also interested in opportunities involving **international teams and global technology projects**.
-
----
-
-## 🌐 Connect With Me
-
-🔗 **LinkedIn:** [linkedin.com/in/isabelle-silva-64018b33b](http://www.linkedin.com/in/isabelle-silva-64018b33b)
-
----
-
-⭐ **Building software. Learning constantly. Evolving every day.**
-
-![GitHub Stats](https://ghstats.dev/api/card?username=isabelle1934)
+*Always learning, building, and improving.*
