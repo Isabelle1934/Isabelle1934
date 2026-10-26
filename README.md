@@ -30,7 +30,7 @@ A driving school management system focused on student
 management, scheduling, and learning progress.
 
 - **Technologies:** Java, Spring Boot, PostgreSQL
-- **Repository:** [https://isabelle1934.github.io/my-portfolio-web/]
+- **Repository:** https://isabelle1934.github.io/my-portfolio-web/
 - **Status:** In development
 
 ## 🎓 Education
@@ -38,8 +38,8 @@ management, scheduling, and learning progress.
 Uninter — Expected graduation: 2029
 
 ## 📫 Contact
-- **LinkedIn:** [https://www.linkedin.com/in/isabelle-silva-64018b33b?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-- **Email:** [isabellefls1910@gmail.com]
+- **LinkedIn:** https://www.linkedin.com/in/isabelle-silva-64018b33b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **Email:** isabellefls1910@gmail.com
 
 ---
 
