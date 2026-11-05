@@ -23,16 +23,6 @@ hands-on projects and continuous learning.
 - **Databases:** SQL, PostgreSQL
 - **Tools:** Git, GitHub, IntelliJ IDEA
 
-## 🚀 Featured Projects
-
-### DriveControl
-A driving school management system focused on student
-management, scheduling, and learning progress.
-
-- **Technologies:** Java, Spring Boot, PostgreSQL
-- **Repository:** https://isabelle1934.github.io/my-portfolio-web/
-- **Status:** In development
-
 ## 🎓 Education
 **B.Sc. in Software Engineering**
 Uninter — Expected graduation: 2029
